@@ -1,8 +1,8 @@
 class Agentsmesh < Formula
   desc "One .agentsmesh/ directory for every AI coding tool"
   homepage "https://github.com/sampleXbro/agentsmesh"
-  url "https://registry.npmjs.org/agentsmesh/-/agentsmesh-0.27.0.tgz"
-  sha256 "aba118988ff7f289b92af982034359d7ea77ef561020355d852c8f83888cc8a2"
+  url "https://registry.npmjs.org/agentsmesh/-/agentsmesh-0.28.0.tgz"
+  sha256 "09b90b0e08f0f0d9ffc4c5b53e8e986f747750314139c1e9dab2dfd21a743780"
   license "MIT"
 
   depends_on "node"
